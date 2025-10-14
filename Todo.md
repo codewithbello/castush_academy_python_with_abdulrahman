@@ -8,7 +8,7 @@
    ---- 1 day
 6. OOP  
    --- 1 day
-7. Software dev using kivy
+7. Software dev using flet
    -- 1 day
 8. Inrto to data science
    -- 1 day
