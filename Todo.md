@@ -1,6 +1,7 @@
 1. Extend project 2 to implement local database using sqlite
 2. We persist the data using cloud database
    e.g. PostgresSql or mongoDB
+   -- request consuming APIs
 3. deployment
    -- 1 day
 4. AI ChatBOT using streamlite
